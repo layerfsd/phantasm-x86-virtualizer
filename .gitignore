@@ -1,0 +1,15 @@
+*
+!*/
+!.gitignore
+
+Debug/
+Release/
+
+logs/
+temp/
+
+!*.c
+!*.cpp
+!*.h
+!*.txt
+!*.md
