@@ -8,6 +8,7 @@ Release/
 logs/
 temp/
 
+!*.asm
 !*.c
 !*.cpp
 !*.h
